@@ -1,12 +1,25 @@
-## Hi there 👋
+# Deprem Bilgi Resmi Organizasyon Sayfası
 
-<!--
+![Deprem Bilgi Logo](url_to_your_logo_image)
 
-**Here are some ideas to get you started:**
+Bu GitHub organizasyon sayfası, resmi Deprem Bilgi organizasyonunun merkezi belge ve bilgi deposudur. Amacımız, Türkiye'de meydana gelen depremler hakkında güncel ve doğru bilgileri sunarak toplumu bilinçlendirmektir.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Hakkımızda
+
+Deprem Bilgi, Türkiye'de yaşanan deprem olaylarını Kandilli Rasathanesi'nin API'sini kullanarak anlık olarak takip eder. Elde edilen bilgileri, ilgili Discord kanallarına ileterek halkın deprem durumu hakkında bilgi sahibi olmasını sağlarız.
+
+## Nasıl Destek Olabilirsiniz
+
+Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
+
+1. Botun resmi web sitesini ziyaret edin: [Deprem Bilgi Bot](https://deprembilgi.xyz)
+2. Botu kullanın ve deneyiminizi değerlendirin.
+3. Bota oy verin: [Oy Ver]()
+
+## İletişim
+
+- E-posta: destekdeprembilgi@gmail.com
+
+Deprem Bilgi botunu desteklemek ve güncellemeleri takip etmek için [Destek Sunucusu](discord_support_server_link)'na katılabilirsiniz.
+
+Deprem Bilgi, topluma deprem konusunda yardımcı olmayı amaçlayan bağımsız bir girişimdir.
