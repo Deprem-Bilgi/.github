@@ -1,6 +1,6 @@
 # Deprem Bilgi Resmi Organizasyon Sayfası
 
-![Deprem Bilgi Logo](https://top.gg/_next/image?url=https%3A%2F%2Fimages.discordapp.net%2Favatars%2F1010946492544069724%2F7e7fd6c0e48d29ab84f8385da425079a.png%3Fsize%3D128&w=128&q=75)
+![Deprem Bilgi Logo](https://avatars.githubusercontent.com/u/143093639?s=200&v=4)
 
 Bu GitHub organizasyon sayfası, resmi Deprem Bilgi organizasyonunun merkezi belge ve bilgi deposudur. Amacımız, Türkiye'de meydana gelen depremler hakkında güncel ve doğru bilgileri sunarak toplumu bilinçlendirmektir.
 
