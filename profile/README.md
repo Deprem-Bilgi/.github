@@ -20,6 +20,6 @@ Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izley
 
 - E-posta: destekdeprembilgi@gmail.com
 
-Deprem Bilgi botunu desteklemek ve güncellemeleri takip etmek için [Destek Sunucusu](discord_support_server_link)'na katılabilirsiniz.
+Deprem Bilgi botunu desteklemek ve güncellemeleri takip etmek için [Destek Sunucusu](https://discord.gg/63ZUyqy6mx)'na katılabilirsiniz.
 
 Deprem Bilgi, topluma deprem konusunda yardımcı olmayı amaçlayan bağımsız bir girişimdir.
