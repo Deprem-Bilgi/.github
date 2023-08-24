@@ -17,8 +17,8 @@ Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izley
 3. Bota oy verin: [Oy Ver](https://top.gg/bot/1010946492544069724/vote)
 
 ## Dokümanlar
-[Gizlilik Politikası]()
-[Hizmet Şartları]()
+[Gizlilik Politikası](https://github.com/Deprem-Bilgi/gizlilik-politikasi)
+[Hizmet Şartları](https://github.com/Deprem-Bilgi/hizmet-sartlari)
 
 ## İletişim
 
