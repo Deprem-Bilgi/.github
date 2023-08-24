@@ -16,6 +16,10 @@ Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izley
 2. Botu kullanın ve deneyiminizi değerlendirin. [Botu Ekle](https://top.gg/bot/1010946492544069724)
 3. Bota oy verin: [Oy Ver](https://top.gg/bot/1010946492544069724/vote)
 
+## Dokümanlar
+[Gizlilik Politikası]()
+[Hizmet Şartları]()
+
 ## İletişim
 
 - E-posta: destekdeprembilgi@gmail.com
