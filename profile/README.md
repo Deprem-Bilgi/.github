@@ -15,6 +15,7 @@ Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izley
 1. Botun resmi web sitesini ziyaret edin: [Deprem Bilgi Bot](https://deprembilgi.xyz)
 2. Botu kullanın ve deneyiminizi değerlendirin. [Botu Ekle](https://top.gg/bot/1010946492544069724)
 3. Bota oy verin: [Oy Ver](https://top.gg/bot/1010946492544069724/vote)
+4. [Bana kahve ısmarla](https://www.buymeacoffee.com/mstferen)yabilirsin.
 
 ## Dokümanlar
 [Gizlilik Politikası](https://github.com/Deprem-Bilgi/gizlilik-politikasi)
