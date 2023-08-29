@@ -28,3 +28,5 @@ Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izley
 Deprem Bilgi botunu desteklemek ve güncellemeleri takip etmek için [Destek Sunucusu](https://discord.gg/63ZUyqy6mx)'na katılabilirsiniz.
 
 Deprem Bilgi, topluma deprem konusunda yardımcı olmayı amaçlayan bağımsız bir girişimdir.
+
+![Discord Bots](https://top.gg/api/widget/1010946492544069724.svg)
