@@ -20,7 +20,7 @@ Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izley
 ## Dokümanlar
 [Gizlilik Politikası](https://github.com/Deprem-Bilgi/gizlilik-politikasi)
 [Hizmet Şartları](https://github.com/Deprem-Bilgi/hizmet-sartlari)
-
+[Deprem Bilgi Dokümantasyon](https://docs.deprembilgi.xyz)
 ## İletişim
 
 - E-posta: destekdeprembilgi@gmail.com
