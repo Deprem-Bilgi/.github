@@ -23,7 +23,7 @@ Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izley
 [Deprem Bilgi Dokümantasyon](https://docs.deprembilgi.xyz)
 ## İletişim
 
-- E-posta: destekdeprembilgi@gmail.com
+- E-posta: support@deprembilgi.xyz
 
 Deprem Bilgi botunu desteklemek ve güncellemeleri takip etmek için [Destek Sunucusu](https://discord.gg/63ZUyqy6mx)'na katılabilirsiniz.
 
