@@ -12,19 +12,16 @@ Deprem Bilgi, Türkiye'de yaşanan deprem olaylarını Kandilli Rasathanesi'nin 
 
 Eğer Deprem Bilgi botuna destek olmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
 
-1. Botun resmi web sitesini ziyaret edin: [Deprem Bilgi Bot](https://deprembot.org)
+1. Botun resmi web sitesini ziyaret edin: [Deprem Bilgi Bot]()
 2. Botu kullanın ve deneyiminizi değerlendirin. [Botu Ekle](https://top.gg/bot/1010946492544069724)
 3. Bota oy verin: [Oy Ver](https://top.gg/bot/1010946492544069724/vote)
-4. [Kurucuya kahve ısmarla](https://www.buymeacoffee.com/mstferen)yabilirsin.
 
 ## Dokümanlar
 [Gizlilik Politikası](https://github.com/Deprem-Bilgi/gizlilik-politikasi)
 [Hizmet Şartları](https://github.com/Deprem-Bilgi/hizmet-sartlari)
-[Deprem Bilgi Dokümantasyon](https://docs.deprembot.org)
+[Deprem Bilgi Dokümantasyon]()
+
 ## İletişim
-
-- E-posta: support@deprembot.org
-
 Deprem Bilgi botunu desteklemek ve güncellemeleri takip etmek için [Destek Sunucusu](https://discord.gg/NMDRfwuUSu)'na katılabilirsiniz.
 
 Deprem Bilgi, topluma deprem konusunda yardımcı olmayı amaçlayan bağımsız bir girişimdir.
